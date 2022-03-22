@@ -1,9 +1,7 @@
 # Spring Boot + Angular 11 CRUD example with MySQL Database
 
-For more details, please visit:
-[https://bezkoder.com/angular-11-spring-boot-crud/](https://bezkoder.com/angular-11-spring-boot-crud/)
 
-In this tutorial, we will learn how to build a full stack Angular 11 + Spring Boot example with a CRUD App. The back-end server uses Spring Boot with Spring Web MVC for REST Controller and Spring Data JPA for interacting with MySQL database. Front-end side is made with Angular 11, HTTPClient & Router.
+In this Project, we will learn how to build a full stack Angular 11 + Spring Boot example with a CRUD App. The back-end server uses Spring Boot with Spring Web MVC for REST Controller and Spring Data JPA for interacting with MySQL database. Front-end side is made with Angular 11, HTTPClient & Router.
 
 We will build a full-stack Tutorial Application in that:
 
