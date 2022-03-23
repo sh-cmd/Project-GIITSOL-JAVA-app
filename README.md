@@ -75,7 +75,7 @@ This is the application architecture we will build:
 * task 1 : Create jenkins CD jobs to host the application on a minikube environment.
 
 ## Project 6
-* task 1 : clone the new version of the application v2 from the github repo https://github.com/sh-cmd/node-project-giit-v2.git .
+* task 1 : clone the new version of the application v2 from the github repo https://github.com/sh-cmd/java-project-giit-v2.git .
 * task 2 : Push the applcation in new branch named Dev
 * task 3 : Create a dev environment for the application.
 * task 4 : Update the virsion 2 of the application on the dev environment using k8s menifest file with the rolling update strategy. Make sure the minReadySeconds will be 10 sec and the maxUnavailable pods will be 2 and maxSurge will be 2.
